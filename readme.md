@@ -1,161 +1,68 @@
-# 👋 Hi, I'm Srikanth Chittella
-
 <div align="center">
 
-**Computer Science Engineering Graduate | Full-Stack Developer | Data Science Enthusiast**
+![Minecraft Banner](https://i.imgur.com/vCl7Ays.gif)
 
-📍 Visakhapatnam, India | 📧 srikanthchittella05@gmail.com | 📱 +91 8121994428
+# ⛏️ SRIKANTH CHITTELLA
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/srikanthchittella05)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:srikanthchittella05@gmail.com)
+<img src="https://img.shields.io/badge/Player%20Status-SPAWNED-00AA00?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mNkYPhfDwAChwGA60e6kgAAAABJRU5ErkJggg==" alt="Status"/>
 
-</div>
+**Computer Science Engineer | Full Stack Developer | Data Scientist**
 
----
+*Crafting code blocks in the digital Minecraft world* 🎮⛏️
 
-## 🎯 About Me
-
-Computer Science Engineering graduate with a solid academic foundation in software development, databases, and analytical problem-solving. I specialize in building scalable backend systems and full-stack applications. Passionate about leveraging technology to solve real-world problems while continuously learning industry-relevant skills.
-
-**Current CGPA:** 8.0/10.0 | **Graduation:** June 2026
+![Steve Mining](https://media.tenor.com/images/8c9fcde8f5d0e5e5e5c5d5e5e5e5e5e5/tenor.gif)
 
 ---
 
-## 💻 Technical Skills
+## 📊 PLAYER INVENTORY
 
-### **Programming Languages**
+| Attribute | Value |
+|-----------|-------|
+| **Player Class** | Full-Stack Developer 🧱 |
+| **Experience Level** | 8.0/10.0 XP |
+| **Current Quest** | Data Science Internship (Completed!) ✅ |
+| **Skill Tree** | BTech CSE (Graduating Jun 2026) |
+| **Spawn Point** | Visakhapatnam, India 🗺️ |
+
+---
+
+## ⚒️ CRAFTING RECIPES (Technical Skills)
+
+![Crafting Table](https://media1.tenor.com/m/yTHYs0Y5O3MAAAAC/minecraft-crafting.gif)
+
+### **🔴 REDSTONE TIER (Backend Engineering)**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql)
 
-### **Frontend Development**
-![React.js](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+### **🟡 GOLD TIER (Frontend & UI)**
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-### **Backend Development**
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+### **💎 DIAMOND TIER (Data & ML)**
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau)
+![PowerBI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/ML-FF6B00?style=flat-square)
 
-### **Databases**
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white)
+### **⚙️ ENCHANTMENTS (Tools & Methods)**
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 
-### **Tools & Technologies**
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-
 ---
 
-## 🚀 Professional Experience
+## 🏆 ACHIEVEMENT UNLOCKED (Projects)
 
-### **Data Science Intern** | Indian Statistical Institute, Kolkata
-*May 2025 – July 2025*
+![Achievement](https://media1.tenor.com/m/FPegXjZ-1ooAAAAC/minecraft-achievement.gif)
 
-- 🔬 Completed a supervised machine learning project using Python and Keras with data preprocessing and model evaluation
-- 📊 Gained hands-on experience in data analysis and visualization using Power BI
-- 📈 Translated analytical findings into clear visual reports for non-technical teams
-- 🏆 **Certification:** Summer Internship in Data Engineering, Analytics and Science (IDEAS Foundation, ISI Kolkata)
+### 🥇 **[JobPortal - MERN Stack](https://github.com/srikanthchittella05/JobPortal)**
+> *Achievement: Master Builder* ⭐
 
----
-
-## 💼 Key Projects
-
-> Click on project names to view the repositories
-
-### **1. Job Portal Backend System**
-- **Tech Stack:** Python, FastAPI, MySQL, JWT, REST APIs
-- **Key Achievements:**
-  - Designed and developed a scalable backend system for user authentication, job posting, and application tracking
-  - Optimized database queries using indexing and pagination, improving API performance by 40%
-  - Deployed the application on cloud platform with production-ready folder structure
-  - Implemented comprehensive REST API endpoints with JWT-based authentication
-
-### **2. Expense Tracker & Analytics Application**
-- **Tech Stack:** Python, Flask, SQL
-- **Key Achievements:**
-  - Built a full-stack expense management system to track daily expenses with category-wise analytics
-  - Designed relational database schema ensuring data consistency and normalization
-  - Implemented monthly and yearly expense summaries for improved financial insights
-  - Created intuitive dashboards for real-time expense visualization
-
-### **3. Library Management System**
-- **Tech Stack:** Python, MySQL
-- **Key Achievements:**
-  - Developed a CRUD-based application to manage books, members, and issue records
-  - Integrated efficient SQL queries for fast data retrieval and updates
-  - Improved code maintainability by modularizing business logic
-  - Implemented search and filtering features for enhanced usability
-
-### **4. Iris Flower Classification (Machine Learning)**
-- **Tech Stack:** Python, Keras, Machine Learning, Power BI
-- **Key Achievements:**
-  - Developed a classification model for the Iris dataset using supervised learning techniques
-  - Performed comprehensive data preprocessing, feature analysis, and label encoding
-  - Trained, tested, and evaluated the model using standard performance metrics
-  - Created visual analytics dashboards in Power BI to present findings
-  - Achieved optimal classification accuracy through hyperparameter tuning
-
----
-
-## 🎓 Education
-
-### **Bachelor of Technology in Computer Science Engineering**
-**Andhra University College of Engineering**, Visakhapatnam, India
-- **Duration:** September 2022 – June 2026
-- **Current CGPA:** 8.0/10.0
-- **Specialization:** Software Development, Database Design, Data Analysis
-
----
-
-## 🏆 Certifications & Achievements
-
-- ✅ **Data Engineering, Analytics & Science Internship** – ISI Kolkata (May – July 2025)
-- 🎯 Strong foundation in Data Structures & Algorithms, OOP, and Software Engineering Best Practices
-- 💡 Proven ability in debugging, unit testing, and code optimization
-
----
-
-## 🌟 Core Competencies
-
-- **Full-Stack Development** – End-to-end application design and deployment
-- **RESTful APIs** – Design and implementation of scalable API systems
-- **Database Management** – Schema design, query optimization, and CRUD operations
-- **Data Visualization** – Creating insightful dashboards with Tableau and Power BI
-- **Machine Learning** – Data preprocessing, model training, and evaluation
-- **Problem Solving** – Strong analytical and debugging skills
-- **Agile Methodologies** – Git workflow, version control, collaborative development
-
----
-
-## 🎯 What I'm Currently Working On
-
-- 🔍 Exploring advanced backend optimization techniques
-- 🤖 Deepening knowledge in machine learning and data science
-- 🌐 Building scalable microservices architectures
-- 📚 Contributing to open-source projects
-
----
-
-## 💡 Let's Connect!
-
-I'm always interested in discussing new projects, innovative ideas, and opportunities to learn and grow. Feel free to reach out:
-
-- 💼 **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
-- 📧 **Email:** srikanthchittella05@gmail.com
-- 📱 **Phone:** +91 8121994428
-
----
-
-<div align="center">
-
-### ⭐ If you find my work interesting, don't forget to star my repositories!
-
-**Thank you for visiting my profile! Happy coding! 🚀**
-
-</div>
+A next-generation job matching platform with dual dashboards for explorers (job seekers) and architects (recruiters).
