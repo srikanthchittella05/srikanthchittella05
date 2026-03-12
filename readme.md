@@ -6,11 +6,15 @@
 
 <img src="https://img.shields.io/badge/Player%20Status-SPAWNED-00AA00?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mNkYPhfDwAChwGA60e6kgAAAABJRU5ErkJggg==" alt="Status"/>
 
+[![🎵 NOW PLAYING — F1 Theme • Brian Tyler](https://img.shields.io/badge/🎵%20NOW%20PLAYING-F1%20Theme%20•%20Brian%20Tyler-E8002D?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=wBaS4JniIOI)
+
 **Computer Science Engineer | Full Stack Developer | Data Scientist**
 
 *Crafting code blocks in the digital Minecraft world* 🎮⛏️
 
 ![Steve Mining](https://media.tenor.com/images/8c9fcde8f5d0e5e5e5c5d5e5e5e5e5e5/tenor.gif)
+
+</div>
 
 ---
 
@@ -66,3 +70,13 @@
 > *Achievement: Master Builder* ⭐
 
 A next-generation job matching platform with dual dashboards for explorers (job seekers) and architects (recruiters).
+
+---
+
+<div align="center">
+
+🏎️ *Lights out and away we go!* 🏁
+
+[![🎵 F1 Official Theme — Brian Tyler](https://img.shields.io/badge/🎵%20F1%20Official%20Theme-Brian%20Tyler-E8002D?style=for-the-badge&logo=youtube)](https://www.youtube.com/watch?v=wBaS4JniIOI)
+
+</div>
