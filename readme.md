@@ -1,82 +1,105 @@
-<div align="center">
+# Srikanth Chittella
 
-![Minecraft Banner](https://i.imgur.com/vCl7Ays.gif)
+> Full Stack Engineer building with a Formula 1 mindset: precision in design, performance in execution, reliability in delivery, and continuous improvement in every release.
 
-# ⛏️ SRIKANTH CHITTELLA
+```text
+┌──────────────────────────────────────────────────────────────────────────────┐
+│ ENGINEERING DASHBOARD                                                       │
+├──────────────────────────────────────────────────────────────────────────────┤
+│ Role        : Full Stack Engineer                                           │
+│ Focus       : Product Engineering, AI Systems, Scalable Delivery            │
+│ Venture     : Building ThinkPlus                                            │
+│ Trajectory  : Advancing toward AI/ML engineering and Master's in Germany    │
+│ Operating   : Precision • Performance • Reliability • Continuous Improvement│
+└──────────────────────────────────────────────────────────────────────────────┘
+```
 
-<img src="https://img.shields.io/badge/Player%20Status-SPAWNED-00AA00?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mNkYPhfDwAChwGA60e6kgAAAABJRU5ErkJggg==" alt="Status"/>
+[![Next.js](https://img.shields.io/badge/Next.js-0A0A0A?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-0A0A0A?style=for-the-badge&logo=typescript&logoColor=3178C6)](https://www.typescriptlang.org/)
+[![Node.js](https://img.shields.io/badge/Node.js-0A0A0A?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E)](https://nodejs.org/)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0A0A0A?style=for-the-badge&logo=postgresql&logoColor=4169E1)](https://www.postgresql.org/)
+[![Prisma](https://img.shields.io/badge/Prisma-0A0A0A?style=for-the-badge&logo=prisma&logoColor=white)](https://www.prisma.io/)
+[![Python](https://img.shields.io/badge/Python-0A0A0A?style=for-the-badge&logo=python&logoColor=3776AB)](https://www.python.org/)
+[![PyTorch](https://img.shields.io/badge/PyTorch-0A0A0A?style=for-the-badge&logo=pytorch&logoColor=EE4C2C)](https://pytorch.org/)
+[![LangChain](https://img.shields.io/badge/LangChain-0A0A0A?style=for-the-badge&logo=chainlink&logoColor=white)](https://www.langchain.com/)
+[![Docker](https://img.shields.io/badge/Docker-0A0A0A?style=for-the-badge&logo=docker&logoColor=2496ED)](https://www.docker.com/)
+[![AWS](https://img.shields.io/badge/AWS-0A0A0A?style=for-the-badge&logo=amazonaws&logoColor=FF9900)](https://aws.amazon.com/)
 
-[![🎵 NOW PLAYING — F1 Theme • Brian Tyler](https://img.shields.io/badge/🎵%20NOW%20PLAYING-F1%20Theme%20•%20Brian%20Tyler-E8002D?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=wBaS4JniIOI)
+## Hero
 
-**Full Stack Engineer | AI/ML Aspirant | Product Builder**
+I build digital products with an engineering approach shaped by high-performance systems: clear architecture, disciplined execution, measurable outcomes, and a bias toward reliability at scale.
 
-*Crafting code blocks in the digital Minecraft world* 🎮⛏️
+My core work sits at the intersection of product engineering and applied AI. Today, that means shipping robust full stack systems, designing strong data foundations, and steadily expanding into AI/ML engineering with production intent.
 
-![Steve Mining](https://media.tenor.com/images/8c9fcde8f5d0e5e5e5c5d5e5e5e5e5e5/tenor.gif)
+## About Me
 
-</div>
+- Full Stack Engineer focused on shipping modern, scalable product experiences.
+- Building **ThinkPlus** with an emphasis on execution quality and long-term system health.
+- Evolving into **AI/ML engineering** through practical systems work, not trend chasing.
+- Planning a **Master's in AI/ML in Germany** to deepen research-backed engineering capability.
+- Most comfortable where product thinking, backend reliability, and technical depth meet.
 
----
+## Engineering Philosophy
 
-## 📊 PLAYER INVENTORY
+| Principle | What it means in practice |
+| --- | --- |
+| Precision | Clean architecture, deliberate tradeoffs, and thoughtful implementation details. |
+| Performance | Fast user experience, efficient systems, and strong execution velocity. |
+| Reliability | Stable services, predictable behavior, and maintainable delivery standards. |
+| Continuous Improvement | Incremental optimization of code, product, process, and engineering judgment. |
 
-| Attribute | Value |
-|-----------|-------|
-| **Player Class** | Full-Stack Developer 🧱 |
-| **Experience Level** | 8.0/10.0 XP |
-| **Current Quest** | Data Science Internship (Completed!) ✅ |
-| **Skill Tree** | BTech CSE (Graduating Jun 2026) |
-| **Spawn Point** | Visakhapatnam, India 🗺️ |
+## ThinkPlus
 
----
+**ThinkPlus** is the product I am building to reflect the kind of engineering I want to be known for: intentional, scalable, and outcome-driven.
 
-## ⚒️ CRAFTING RECIPES (Technical Skills)
+The focus is not simply on building features, but on building a product system with sound foundations:
 
-![Crafting Table](https://media1.tenor.com/m/yTHYs0Y5O3MAAAAC/minecraft-crafting.gif)
+- product decisions backed by technical clarity
+- a codebase designed for iteration and growth
+- infrastructure that supports dependable delivery
+- AI capabilities introduced where they create real leverage
 
-### **🔴 REDSTONE TIER (Backend Engineering)**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django)
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql)
+## Current Focus
 
-### **🟡 GOLD TIER (Frontend & UI)**
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+- Shipping high-quality product experiences with **Next.js, TypeScript, and Node.js**
+- Designing reliable data workflows with **PostgreSQL and Prisma**
+- Strengthening AI systems capability through **Python, PyTorch, and LangChain**
+- Building deployment discipline with **Docker and AWS**
+- Positioning for advanced AI/ML study and research-aligned engineering work in Germany
 
-### **💎 DIAMOND TIER (Data & ML)**
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau)
-![PowerBI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/ML-FF6B00?style=flat-square)
+## Technology Stack
 
-### **⚙️ ENCHANTMENTS (Tools & Methods)**
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+| Domain | Stack |
+| --- | --- |
+| Product Engineering | Next.js, TypeScript, Node.js |
+| Data Layer | PostgreSQL, Prisma |
+| AI Systems | Python, PyTorch, LangChain |
+| Infrastructure | Docker, AWS |
 
----
+## Engineering Telemetry
 
-## 🏆 ACHIEVEMENT UNLOCKED (Projects)
+| Signal | Status |
+| --- | --- |
+| Product Engineering | Active |
+| AI/ML Transition | In Progress |
+| Venture Build | ThinkPlus |
+| Architecture Mindset | High-performance, reliability-first |
+| Operating Standard | Recruiter-friendly, production-oriented, systems-driven |
 
-![Achievement](https://media1.tenor.com/m/FPegXjZ-1ooAAAAC/minecraft-achievement.gif)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Srikanthchittella005&show_icons=true&hide_border=true&bg_color=0D1117&title_color=F5F5F5&text_color=A9B1BC&icon_color=E10600&ring_color=E10600)
 
-### 🥇 **[JobPortal - MERN Stack](https://github.com/srikanthchittella05/JobPortal)**
-> *Achievement: Master Builder* ⭐
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Srikanthchittella005&layout=compact&hide_border=true&bg_color=0D1117&title_color=F5F5F5&text_color=A9B1BC)
 
-A next-generation job matching platform with dual dashboards for explorers (job seekers) and architects (recruiters).
+## 2026 Roadmap
 
----
+- Scale **ThinkPlus** with stronger product maturity and sharper technical differentiation.
+- Deepen applied AI engineering capability across model workflows, evaluation, and deployment patterns.
+- Expand portfolio quality around production-grade full stack and AI-enabled systems.
+- Prepare for a **Master's in AI/ML in Germany** with a stronger bridge between engineering execution and advanced research direction.
+- Continue refining a professional brand built around disciplined, high-performance engineering.
 
-<div align="center">
+## Contact
 
-🏎️ *Lights out and away we go!* 🏁
-
-[![🎵 F1 Official Theme — Brian Tyler](https://img.shields.io/badge/🎵%20F1%20Official%20Theme-Brian%20Tyler-E8002D?style=for-the-badge&logo=youtube)](https://www.youtube.com/watch?v=wBaS4JniIOI)
-
-</div>
+- Email: [srikanthchittella05@gmail.com](mailto:srikanthchittella05@gmail.com)
+- GitHub: [github.com/Srikanthchittella005](https://github.com/Srikanthchittella005)
+- Open to conversations around full stack engineering, AI-focused product building, and long-term technical opportunities.
