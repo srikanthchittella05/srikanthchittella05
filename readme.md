@@ -8,7 +8,7 @@
 
 [![🎵 NOW PLAYING — F1 Theme • Brian Tyler](https://img.shields.io/badge/🎵%20NOW%20PLAYING-F1%20Theme%20•%20Brian%20Tyler-E8002D?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=wBaS4JniIOI)
 
-**Computer Science Engineer | Full Stack Developer | Data Scientist**
+**Full Stack Engineer | AI/ML Aspirant | Product Builder**
 
 *Crafting code blocks in the digital Minecraft world* 🎮⛏️
 
