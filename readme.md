@@ -1,13 +1,7 @@
-<!-- HERO -->
-
 <div align="center">
 
-<br>
-<br>
+<img src="./assets/hero.gif" width="100%" alt="Hero Animation"/>
 
-<img src="./assets/hero.gif" width="100%" alt="Performance Hero">
-
-<br>
 <br>
 
 # Srikanth Chittella
@@ -18,21 +12,13 @@ Building scalable systems, intelligent applications, and performance-focused sof
 
 <br>
 
-<a href="mailto:YOUR_EMAIL">
-  <img src="https://skillicons.dev/icons?i=gmail" height="45"/>
-</a>
-
-<a href="YOUR_LINKEDIN_URL">
-  <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
-</a>
-
-<a href="https://github.com/srikanthchittella05">
-  <img src="https://skillicons.dev/icons?i=github" height="45"/>
-</a>
+🏁 <a href="#️-engineering-stack">Stack</a> •
+🚦 <a href="#-current-focus">Focus</a> •
+📡 <a href="#-github-telemetry">Telemetry</a> •
+🤝 <a href="#-connect">Connect</a>
 
 </div>
 
-<br>
 <br>
 
 ---
@@ -43,35 +29,16 @@ Building scalable systems, intelligent applications, and performance-focused sof
 
 <br>
 
-### Core Systems
-
-<img src="https://skillicons.dev/icons?i=nextjs,ts,nodejs" />
+<img src="https://skillicons.dev/icons?i=nextjs,ts,nodejs,python,pytorch,postgres,docker,aws" />
 
 <br><br>
-
-### Data & Intelligence
-
-<img src="https://skillicons.dev/icons?i=python,pytorch" />
-
-<br><br>
-
-### DATABASE & LLM Systems
-
-<img src="https://skillicons.dev/icons?i=postgres,SQL,NoSQL" />
 
 <img src="https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge"/>
 
-<br><br>
-
-### Infrastructure
-
-<img src="https://skillicons.dev/icons?i=docker,aws" />
-
 </div>
 
-<br>
 <br>
 
 ---
@@ -92,7 +59,6 @@ Strengthening software architecture and system design
 
 </div>
 
-<br>
 <br>
 
 ---
@@ -116,27 +82,29 @@ Strengthening software architecture and system design
 </div>
 
 <br>
-<br>
 
 ---
 
-<div align="center">
+<div align="center" id="connect">
 
 # 🤝 Connect
 
-<a href="srikanthchittella05@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" height="50"/>
+<br>
+
+<a href="mailto:YOUR_EMAIL">
+  <img src="https://skillicons.dev/icons?i=gmail" height="55"/>
 </a>
 
-<a href="https://www.linkedin.com/in/srikanth-chittella-41b0a12a7/">
-  <img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
+<a href="YOUR_LINKEDIN_URL">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="55"/>
 </a>
 
 <a href="https://github.com/srikanthchittella05">
-  <img src="https://skillicons.dev/icons?i=github" height="50"/>
+  <img src="https://skillicons.dev/icons?i=github" height="55"/>
 </a>
 
 <br><br>
 
+### Obsessed with Performance.
 
 </div>
