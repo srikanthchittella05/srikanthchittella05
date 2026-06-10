@@ -10,10 +10,10 @@ Transforming ideas into scalable software systems and AI-enhanced digital experi
 
 <br>
 
-🏁 <a href="#️-engineering-stack">Stack</a> •
-⏳ <a href="#-current-focus">Focus</a> •
+🏎️ <a href="#️-garage">Garage</a> •
+🚦 <a href="#-mission-control">Mission Control</a> •
 📡 <a href="#-github-telemetry">Telemetry</a> •
-🤝🏻 <a href="#-connect">Connect</a>
+🎧 <a href="#-team-radio">Team Radio</a>
 
 <img src="./Github hero (1).gif" width="100%" alt="Hero Animation"/>
 
@@ -25,7 +25,7 @@ Transforming ideas into scalable software systems and AI-enhanced digital experi
 
 <div align="center">
 
-# ⚙️ Engineering Stack
+# 🏎️ Garage
 
 ### Frontend & Applications
 
@@ -64,7 +64,7 @@ Transforming ideas into scalable software systems and AI-enhanced digital experi
 
 <div align="center">
 
-# ⏳ Current Focus
+# 🚦 Mission Control
 
 Building ThinkPlus
 
@@ -104,7 +104,7 @@ Strengthening software architecture and system design
 
 <div align="center" id="connect">
 
-# 🤝🏻 Connect
+# 🎧 Team Radio
 
 <br>
 
