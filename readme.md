@@ -49,8 +49,6 @@ Building scalable systems, intelligent applications, and performance-focused sof
 
 Building ThinkPlus
 
-Preparing for Master's studies in AI/ML
-
 Exploring LLM-powered systems
 
 Developing production-grade software
