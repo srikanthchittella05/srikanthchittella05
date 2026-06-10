@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="./Github hero (1).gif" width="100%" alt="Hero Animation"/>
-
 <br>
 
 # Srikanth Chittella
@@ -16,6 +14,8 @@ Building scalable systems, intelligent applications, and performance-focused sof
 🚦 <a href="#-current-focus">Focus</a> •
 📡 <a href="#-github-telemetry">Telemetry</a> •
 🤝 <a href="#-connect">Connect</a>
+
+<img src="./Github hero (1).gif" width="100%" alt="Hero Animation"/>
 
 </div>
 
@@ -85,7 +85,7 @@ Strengthening software architecture and system design
 
 <div align="center" id="connect">
 
-# 🤝 Connect
+# Connect
 
 <br>
 
