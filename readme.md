@@ -4,16 +4,16 @@
 
 # Srikanth Chittella
 
-### Full Stack Engineer • AI/ML Aspirant
+### Full Stack Engineer specializing in AI Integration
 
-Building scalable systems, intelligent applications, and performance-focused software.
+Transforming ideas into scalable software systems and AI-enhanced digital experiences.
 
 <br>
 
 🏁 <a href="#️-engineering-stack">Stack</a> •
-🚦 <a href="#-current-focus">Focus</a> •
+⏳ <a href="#-current-focus">Focus</a> •
 📡 <a href="#-github-telemetry">Telemetry</a> •
-🤝 <a href="#-connect">Connect</a>
+🤝🏻 <a href="#-connect">Connect</a>
 
 <img src="./Github hero (1).gif" width="100%" alt="Hero Animation"/>
 
@@ -27,25 +27,44 @@ Building scalable systems, intelligent applications, and performance-focused sof
 
 # ⚙️ Engineering Stack
 
+### Frontend & Applications
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,vite" />
+
 <br>
 
-<img src="https://skillicons.dev/icons?i=nextjs,ts,nodejs,python,pytorch,postgres,docker,aws" />
+### Backend & Systems
 
-<br><br>
+<img src="https://skillicons.dev/icons?i=nodejs,express,prisma,graphql" />
+
+<br>
+
+### AI & Intelligence
+
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn" />
+
+<br>
 
 <img src="https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge"/>
 
-</div>
+<img src="https://img.shields.io/badge/RAG-0A0A0A?style=for-the-badge"/>
 
 <br>
+
+### Platform & Infrastructure
+
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,docker,aws" />
+
+</div>
+
 
 ---
 
 <div align="center">
 
-# 🚦 Current Focus
+# ⏳ Current Focus
 
 Building ThinkPlus
 
@@ -85,7 +104,7 @@ Strengthening software architecture and system design
 
 <div align="center" id="connect">
 
-# Connect
+# 🤝🏻 Connect
 
 <br>
 
@@ -100,8 +119,5 @@ Strengthening software architecture and system design
 <a href="https://github.com/srikanthchittella05">
   <img src="https://skillicons.dev/icons?i=github" height="55"/>
 </a>
-
-<br><br>
-
 
 </div>
