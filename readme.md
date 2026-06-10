@@ -105,6 +105,5 @@ Strengthening software architecture and system design
 
 <br><br>
 
-### Obsessed with Performance.
 
 </div>
