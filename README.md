@@ -29,13 +29,13 @@ Transforming ideas into scalable software systems and AI-enhanced digital experi
 
 ### Frontend & Applications
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,vite" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind" />
 
 <br>
 
 ### Backend & Systems
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,prisma,graphql" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,prisma" />
 
 <br>
 
