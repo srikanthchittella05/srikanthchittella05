@@ -2,7 +2,7 @@
 
 <br>
 
-# Srikanth Chittella
+# Hey, I'm Srikanth Chittella..
 
 ### Full Stack Engineer specializing in AI Integration
 
