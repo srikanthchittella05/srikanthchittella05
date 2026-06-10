@@ -1,6 +1,14 @@
+<!-- HERO -->
+
 <div align="center">
 
-<img src="./assets/hero.gif" width="100%" alt="Performance Garage"/>
+<br>
+<br>
+
+<img src="./assets/hero.gif" width="100%" alt="Performance Hero">
+
+<br>
+<br>
 
 # Srikanth Chittella
 
@@ -8,99 +16,127 @@
 
 Building scalable systems, intelligent applications, and performance-focused software.
 
-<p>
-  <a href="mailto:YOUR_EMAIL">Email</a> •
-  <a href="YOUR_LINKEDIN">LinkedIn</a> •
-  <a href="https://github.com/srikanthchittella05">GitHub</a>
-</p>
+<br>
+
+<a href="mailto:YOUR_EMAIL">
+  <img src="https://skillicons.dev/icons?i=gmail" height="45"/>
+</a>
+
+<a href="YOUR_LINKEDIN_URL">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+</a>
+
+<a href="https://github.com/srikanthchittella05">
+  <img src="https://skillicons.dev/icons?i=github" height="45"/>
+</a>
 
 </div>
 
----
-
-## 🏁 Engineering Bay
-
-I enjoy building products where engineering, performance, and user experience intersect.
-
-My current focus is on:
-
-* Full Stack Engineering
-* Artificial Intelligence & Machine Learning
-* LLM Applications
-* System Design
-* Scalable Architectures
+<br>
+<br>
 
 ---
 
-## ⚙️ Technology Stack
+<div align="center">
+
+# ⚙️ Engineering Stack
+
+<br>
 
 ### Core Systems
 
-<p>
-<img src="https://skillicons.dev/icons?i=nextjs,ts,nodejs," />
-</p>
+<img src="https://skillicons.dev/icons?i=nextjs,ts,nodejs" />
+
+<br><br>
 
 ### Data & Intelligence
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,pytorch,postgres,SQL,NoSQL" />
-</p>
+<img src="https://skillicons.dev/icons?i=python,pytorch" />
 
-### AI Systems
+<br><br>
 
-<p>
+### DATABASE & LLM Systems
+
+<img src="https://skillicons.dev/icons?i=postgres,SQL,NoSQL" />
+
+<img src="https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge"/>
+
+<br><br>
+
+### Infrastructure
+
 <img src="https://skillicons.dev/icons?i=docker,aws" />
-</p>
-
----
-
-## 🚦 Current Focus
-
-* Building ThinkPlus
-* Exploring LLM-powered applications
-* Strengthening software architecture and system design skills
-* Building production-grade systems
-
----
-
-## 🏎️ Featured Project
-
-### ThinkPlus
-
-Modern educational platform focused on performance, scalability, maintainability, and user experience.
-
----
-
-## 📡 Development Telemetry
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=srikanthchittella05&show_icons=true&theme=transparent"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srikanthchittella05&layout=compact&theme=transparent"/>
 
 </div>
 
----
-
-## 🎯 Long-Term Goals
-
-* Advanced studies in Artificial Intelligence & Machine Learning
-* AI-powered products and intelligent systems
-* Open-source contributions
-* Scalable software architecture
-* High-performance engineering
+<br>
+<br>
 
 ---
-
-## 🤝 Connect
-
-* Email: srikanthchittella05@gmail.com
-* LinkedIn: https://www.linkedin.com/in/srikanth-chittella-41b0a12a7/
-* GitHub: github.com/srikanthchittella05
 
 <div align="center">
 
-### Obsessed with Performance.
+# 🚦 Current Focus
+
+Building ThinkPlus
+
+Preparing for Master's studies in AI/ML
+
+Exploring LLM-powered systems
+
+Developing production-grade software
+
+Strengthening software architecture and system design
+
+</div>
+
+<br>
+<br>
+
+---
+
+<div align="center">
+
+# 📡 GitHub Telemetry
+
+<br>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=srikanthchittella05&show_icons=true&theme=transparent&hide_border=true"/>
+
+<br>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srikanthchittella05&layout=compact&theme=transparent&hide_border=true"/>
+
+<br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=srikanthchittella05&theme=transparent&hide_border=true"/>
+
+</div>
+
+<br>
+<br>
+
+---
+
+<div align="center">
+
+# 🤝 Connect
+
+<a href="srikanthchittella05@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" height="50"/>
+</a>
+
+<a href="https://www.linkedin.com/in/srikanth-chittella-41b0a12a7/">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
+</a>
+
+<a href="https://github.com/srikanthchittella05">
+  <img src="https://skillicons.dev/icons?i=github" height="50"/>
+</a>
+
+<br><br>
+
 
 </div>
