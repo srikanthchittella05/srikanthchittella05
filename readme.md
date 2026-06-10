@@ -1,69 +1,106 @@
+<div align="center">
+
+<img src="./assets/hero.gif" width="100%" alt="Performance Garage"/>
+
 # Srikanth Chittella
 
-<p>
-  Full Stack Engineer<br/>
-  Future AI/ML Engineer
-</p>
+### Full Stack Engineer • AI/ML Aspirant
 
-<img src="assets/performance-garage.svg" alt="Formula 1 inspired performance garage hero" width="100%"/>
-
-## Pit Wall Briefing
+Building scalable systems, intelligent applications, and performance-focused software.
 
 <p>
-  OBSESSED WITH PERFORMANCE.
+  <a href="mailto:YOUR_EMAIL">Email</a> •
+  <a href="YOUR_LINKEDIN">LinkedIn</a> •
+  <a href="https://github.com/srikanthchittella05">GitHub</a>
 </p>
+
+</div>
+
+---
+
+## 🏁 Engineering Bay
+
+I enjoy building products where engineering, performance, and user experience intersect.
+
+My current focus is on:
+
+* Full Stack Engineering
+* Artificial Intelligence & Machine Learning
+* LLM Applications
+* System Design
+* Scalable Architectures
+
+---
+
+## ⚙️ Technology Stack
+
+### Core Systems
 
 <p>
-  I build full stack systems with race-team discipline: tighter feedback loops, cleaner execution, and software tuned for speed under load.
+<img src="https://skillicons.dev/icons?i=nextjs,ts,nodejs," />
 </p>
 
-## Garage Build Sheet
-
-<table>
-  <tr>
-    <td width="220"><strong>🏎 Chassis</strong></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=nextjs,ts,nodejs&theme=dark" alt="Next.js, TypeScript, Node.js" />
-      <br/>
-      Next.js · TypeScript · Node.js
-    </td>
-  </tr>
-  <tr>
-    <td><strong>🛞 Data Systems</strong></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=postgres,prisma&theme=dark" alt="PostgreSQL, Prisma" />
-      <br/>
-      PostgreSQL · Prisma
-    </td>
-  </tr>
-  <tr>
-    <td><strong>📡 Race Intelligence</strong></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=py,pytorch&theme=dark" alt="Python, PyTorch" />
-      <br/>
-      Python · PyTorch · LangChain · OpenAI
-    </td>
-  </tr>
-  <tr>
-    <td><strong>🏁 Race Operations</strong></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=docker,aws&theme=dark" alt="Docker, AWS" />
-      <br/>
-      Docker · AWS
-    </td>
-  </tr>
-</table>
-
-## Race Program
+### Data & Intelligence
 
 <p>
-  Product engineering for modern web systems.<br/>
-  AI/ML capability under active development.
+<img src="https://skillicons.dev/icons?i=python,pytorch,postgres,SQL,NoSQL" />
 </p>
 
-## Timing Sheet
+### AI Systems
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Srikanthchittella005&show_icons=true&hide_border=true&bg_color=0B0D10&title_color=F5F7FA&text_color=A3ADB8&icon_color=E10600&ring_color=E10600" alt="GitHub stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srikanthchittella005&layout=compact&hide_border=true&bg_color=0B0D10&title_color=F5F7FA&text_color=A3ADB8" alt="Top languages" height="170"/>
+<img src="https://skillicons.dev/icons?i=docker,aws" />
 </p>
+
+---
+
+## 🚦 Current Focus
+
+* Building ThinkPlus
+* Exploring LLM-powered applications
+* Strengthening software architecture and system design skills
+* Building production-grade systems
+
+---
+
+## 🏎️ Featured Project
+
+### ThinkPlus
+
+Modern educational platform focused on performance, scalability, maintainability, and user experience.
+
+---
+
+## 📡 Development Telemetry
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=srikanthchittella05&show_icons=true&theme=transparent"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srikanthchittella05&layout=compact&theme=transparent"/>
+
+</div>
+
+---
+
+## 🎯 Long-Term Goals
+
+* Advanced studies in Artificial Intelligence & Machine Learning
+* AI-powered products and intelligent systems
+* Open-source contributions
+* Scalable software architecture
+* High-performance engineering
+
+---
+
+## 🤝 Connect
+
+* Email: srikanthchittella05@gmail.com
+* LinkedIn: https://www.linkedin.com/in/srikanth-chittella-41b0a12a7/
+* GitHub: github.com/srikanthchittella05
+
+<div align="center">
+
+### Obsessed with Performance.
+
+</div>
