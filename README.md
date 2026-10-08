@@ -15,8 +15,6 @@ Transforming ideas into scalable software systems and AI-enhanced digital experi
 📡 <a href="#-github-telemetry">Telemetry</a> •
 🎧 <a href="#-team-radio">Team Radio</a>
 
-<img src="./Github hero (1).gif" width="100%" alt="Hero Animation"/>
-
 </div>
 
 <br>
